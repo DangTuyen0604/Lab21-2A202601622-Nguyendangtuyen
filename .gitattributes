@@ -1,0 +1,3 @@
+# Integrity checks hash the JSONL bytes; keep the canonical line endings on Windows.
+*.jsonl text eol=lf
+
